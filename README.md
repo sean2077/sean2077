@@ -75,7 +75,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
 
 <div align="center">
-  <img width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sean2077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />&nbsp;<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sean2077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sean2077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />&nbsp;<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sean2077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sean2077&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=sean2077&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=2" />
 </div>
 
 ---
