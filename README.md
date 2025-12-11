@@ -10,15 +10,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://github.com/sean2077?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sean2077?style=for-the-badge&logo=github&labelColor=1a1b27&color=6366f1">
-  </a>
-  <a href="https://sean2077.pages.dev/">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-sean2077.pages.dev-6366f1?style=for-the-badge&logo=hugo&labelColor=1a1b27">
-  </a>
-  <a href="https://github.com/sean2077">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sean2077&style=for-the-badge&color=6366f1&labelColor=1a1b27">
-  </a>
+  <a href="https://github.com/sean2077?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sean2077?style=for-the-badge&logo=github&labelColor=1a1b27&color=6366f1"></a>&nbsp;<a href="https://sean2077.pages.dev/"><img alt="Blog" src="https://img.shields.io/badge/Blog-sean2077.pages.dev-6366f1?style=for-the-badge&logo=hugo&labelColor=1a1b27"></a>&nbsp;<a href="https://github.com/sean2077"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sean2077&style=for-the-badge&color=6366f1&labelColor=1a1b27"></a>
 </p>
 
 </div>
@@ -83,12 +75,12 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sean2077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sean2077&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sean2077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sean2077&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean2077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sean2077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
 </div>
 
 ---
@@ -106,7 +98,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sean2077&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=sean2077&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -136,12 +128,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> Let's Connect!
 
-<a href="mailto:sean2077@163.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://sean2077.pages.dev/">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" />
-</a>
+<a href="mailto:sean2077@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://sean2077.pages.dev/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" /></a>
 
 <br/><br/>
 
