@@ -98,7 +98,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=sean2077&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=sean2077&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=1&margin-w=10" />
 </div>
 
 ---
