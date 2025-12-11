@@ -128,7 +128,7 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> Let's Connect!
 
-<a href="mailto:sean2077@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://sean2077.pages.dev/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+<a href="mailto:seanzhang.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://sean2077.pages.dev/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" /></a>
 
 <br/><br/>
 
