@@ -72,34 +72,34 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
 ---
 
 <!-- GitHub Stats Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sean2077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />&nbsp;<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sean2077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
 </div>
 
----
+--- -->
 
 <!-- Contribution Graph -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> Contribution Graph
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sean2077&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" />
 </div>
 
----
+--- -->
 
 <!-- Trophy Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=sean2077&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=2" />
 </div>
 
----
+--- -->
 
 <!-- Snake Animation -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> Contribution Snake
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> Contribution Snake
 
 <div align="center">
   <picture>
@@ -109,14 +109,14 @@ print(f"Building intelligent systems that bridge AI and the physical world.")
   </picture>
 </div>
 
----
+--- -->
 
 <!-- Quote Section -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
+--- -->
 
 <!-- Footer -->
 <div align="center">
