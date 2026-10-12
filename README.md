@@ -37,7 +37,9 @@ print("Building intelligent systems that bridge AI and the physical world.")
 
 <br clear="both"/>
 
-<!-- Tech Stack: integrated into About Me -->
+<!-- Tech Stack Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack
+
 **Languages** ·
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
