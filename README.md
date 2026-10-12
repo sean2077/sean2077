@@ -108,8 +108,4 @@ print("Building intelligent systems that bridge AI and the physical world.")
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="24" alt="Animated handshake" /> <strong>Let's Connect!</strong></p>
 
 <a href="mailto:seanzhang.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://sean2077.pages.dev/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hugo&logoColor=white" /></a>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer" alt="Gradient wave footer" />
-
 </div>
