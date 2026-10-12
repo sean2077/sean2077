@@ -1,7 +1,7 @@
-<div align="center">
+<!-- About Me Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Sean&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Sean — animated gradient banner" />
+<div align="center">
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -14,9 +14,6 @@
 </p>
 
 </div>
-
-<!-- About Me Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
 
 ```python
 sean = {
